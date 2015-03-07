@@ -1,0 +1,38 @@
+  #menusuario{
+    position:absolute; 
+    top: 280px;
+    
+    
+  }
+  #Resultado
+  {
+   position:absolute; 
+    left:50px;
+    top: 595px;
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+    border: 2px solid black;
+  }
+  #Search
+  {
+    
+    position:absolute; 
+    left: 228px;
+    top: 598px;
+  }
+  
+  #buttonStart
+  {
+    position:absolute; 
+    left:0px;
+    top: 590px;
+     border-radius: 10%;
+    
+  }
+#Escritorio{
+  position:absolute;
+  top: 0px;
+  left:0px;
+}
+  #draggable { width: 150px; height: 150px; padding: 0.5em; }
